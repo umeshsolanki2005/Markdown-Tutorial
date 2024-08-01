@@ -1,4 +1,4 @@
-# Chandrayaan 3: India's Next Lunar Mission
+# Chandrayaan 3: India's Next Lunar Mission.
 
 ![Chandrayan-3](chandrayan_3.png)
 
